@@ -5,5 +5,5 @@ class TestClass:
 
     def test_two(self):
         x = "hello"
-        #assert x == 'check'
-	assert x == 'hello'
+        assert x == 'check'
+	#assert x == 'hello'
